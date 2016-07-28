@@ -1,0 +1,6 @@
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Boryvka-kraskle\Boryvka-kraskle\bin\Debug\Boryvka-kraskle.exe.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Boryvka-kraskle\Boryvka-kraskle\obj\Debug\Boryvka-kraskle.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Boryvka-kraskle\Boryvka-kraskle\bin\Debug\Boryvka-kraskle.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Boryvka-kraskle\Boryvka-kraskle\bin\Debug\Boryvka-kraskle.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Boryvka-kraskle\Boryvka-kraskle\obj\Debug\Boryvka-kraskle.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Boryvka-kraskle\Boryvka-kraskle\obj\Debug\Boryvka-kraskle.pdb
